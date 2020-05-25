@@ -1,0 +1,50 @@
+#def message():
+ #   print("Enter a value:")
+
+#message()
+#a=int (input())
+#message()
+#b=int (input())
+#message()
+#c=int (input())
+#message()
+
+#def hi (name):
+#    print("Hi,",name)
+#    st=input("ingresa el nombre")
+#hi(st)
+
+
+
+#def resta(a,b):
+    #print(a-b)
+
+#resta(2,b=5)
+
+#def multi(a,b):
+ #   return a*b
+ #print(multi(1,3))
+
+#def wishes():
+#    print("My wishes")
+#    return"Happy birtday"   
+#print(wishes())
+
+################# funcion con lista #################333
+
+#def hola3(mylist):
+#    for a in mylist:
+#        print("Hola !",a)
+#    return mylist
+#hola3(["Juan","Carlos","Pedro"])
+#hola3(["Juan","Carlos","Pedro","Sandra","Monica"])
+#hola3(["Juan"])
+#hola3((1,2,2.5,3.8,"Monica",True))
+
+#print(hola3(["Juan","Carlos","Pedro","Sandra","Monica"]))
+
+#def createlist(n):
+#    mylist=[]
+#    for i in range():
+#        mylist.append(i)
+#    return mylist
