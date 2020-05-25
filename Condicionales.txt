@@ -1,0 +1,32 @@
+#nativeVLAN=100
+#dataVLAN=100
+#if nativeVLAN ==dataVLAN:
+#    print("The nativeVLAN and the dataVLAN are the same.")
+#else:
+#    print("The nativeVLAN and the dataVLAN are different.")
+#print("Hola mundo")
+
+#hostnames=["R1","R2","R3","S1","S2",]
+#for item in hostnames:
+#    if "1" in item:
+#        print(item)
+#print("fin")
+
+#switches=[]
+#for i in hostnames:
+#    if "R" in i:
+#        switches.append(i)
+#print(switches)
+
+while True:
+    x=input("Enter a numbre to count to: ")
+    if x== 'q' or x== 'quit':
+        break
+    x=int(x)
+    y=1
+    while True:
+        print(y)
+        y+=1
+        if y>x:
+            break
+print("fin")

@@ -1,0 +1,19 @@
+############################## LISTA ########################################
+#hostnames=["R1","R2","R3","S1","S2",]  #declaracion de la lista
+#print(type(hostnames))                  #impresion del tipo de lista
+#print(len(hostnames))                   #longitud
+#test=[1,"2",3.0,False]
+#print(test)
+#print(hostnames[3])
+#hostnames[0]="RRR"                      #cambiar un dato en una ubicacion
+#del hostnames[1]
+#print(hostnames)
+
+############################ DICCIONARIO ############################################
+#ipAddress={"R1":"10.1.1.1","R2":"10.2.2.1","R3":"10.3.3.1"}
+#print(ipAddress)
+#print(type(ipAddress))
+#print(len(ipAddress))
+#ipAddress["S1"]="10.1.1.10"
+#print(ipAddress)
+#print("R3" in ipAddress)

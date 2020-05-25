@@ -1,0 +1,14 @@
+###########################  INGRESO DE DATOS  ###################################
+#firstName=input("What is your first mane? ")
+#lastMame=input("What is your last mane? ")
+#loca=input("What is your location? ")
+#age=int(input("What is your age? "))
+#spa=" "
+#print("Hello"+spa+firstName+spa+lastMame+"!"+spa+"you have lived"+spa+age+spa+"years in"+spa+loca)
+
+#if age >= 18:
+#    print("mayor de edad")
+#elif age <0:
+#    print("ingrese una edad positiva")
+#else:
+#    print ("menor de edad")
